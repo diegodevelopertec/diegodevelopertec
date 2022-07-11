@@ -1,11 +1,24 @@
-### Hi there 👋
+<h1>Olá,Bem vindo ao meu perfil!sou o Diego:smile:</h1>
 
-<!--
-**diegodevelopertec/diegodevelopertec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>Sobre Mim</h2>
+<ul>
+<li> Sou Dev Junior Javascript Full-stack</li>
+ <li>Sou Apaixonado por Tecnologia</li>
+ <li>Gosto de sempre estar aprendendo algo novo</li>
+  <li>Gosto de ajudar outros</li>
+</ul>
 
-Here are some ideas to get you started:
-
-<p><img src="https://img.icons8.com/emoji/48/000000/video-game.png"/> <img src="https://img.icons8.com/fluency/96/000000/ibooks.png"/>Gosto de videogames</p>
-<p> <img src="https://img.icons8.com/fluency/96/000000/ibooks.png"/>Gosto de ler <img src="https://img.icons8.com/stickers/100/000000/learning.png"/></p>
-<p>  <img src="https://img.icons8.com/stickers/100/000000/learning.png"/> Gosto de sempre estar aprendendo algo novo</p>
--->
+<h2>Tecnologias</h2>
+<ul>
+<li>HTML/CSS/Bootstrap</li>
+ <li>Javascript/Jquery</li> 
+ <li>Typescript</li>
+  <li>React</li>
+ <li>Node JS/Express</li>
+<li>PHP</li>
+<li>MySQL</li>
+<li>MongoDB</li>
+<li>Postgres</li>
+</ul>
+<h2>Certificados</h2>
+<p>Tenha acesso á todos os cursos que fiz na área Tech:<a href='https://web.dio.me/certificates'>clique aqui<a></p>
