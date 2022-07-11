@@ -10,10 +10,12 @@
 
 <h2>Tecnologias</h2>
 <ul>
+<h3>Front-End</h3>
 <li>HTML/CSS/Bootstrap</li>
  <li>Javascript/Jquery</li> 
  <li>Typescript</li>
   <li>React</li>
+ <h3>Back-End</h3>
  <li>Node JS/Express</li>
 <li>PHP</li>
 <li>MySQL</li>
