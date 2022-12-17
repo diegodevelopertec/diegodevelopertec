@@ -28,6 +28,7 @@
  <li>
  <img src="https://img.icons8.com/fluency/96/000000/node-js.png" height="50px"/>
 <img src="https://img.icons8.com/officel/160/000000/php-logo.png" height="50px"/>
+ <img src="https://img.icons8.com/color/48/000000/typescript.png" height="50px"/>
  </li>
 <li>
  <img src="https://img.icons8.com/fluency/96/000000/mysql-logo.png" height="50px"/>
